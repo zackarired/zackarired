@@ -1,7 +1,9 @@
 ![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Free_Palestine-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 ### Hi! I'm Zack Wardi
-I'm a cloud systems developer
+
+I'm a cloud systems developer, using this profile to follow projects I'd like to keep away from my employer. I also run https://arabi.gay
+
 Gay, Queer 🏳‍🌈 Polyam 👯‍♂️, little flower 🌺 puppy 🐾 baking 🍪 naturist 🍃 politics 💅 chaotic 🌪️
 
 Palestinian 🇵🇸 near Tkaronto, Canada
